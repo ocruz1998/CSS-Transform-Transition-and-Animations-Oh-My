@@ -1,1 +1,8 @@
+ 
+button {
+    transition: 0.5s;
+}
 
+button:hover {
+    color: ghostwhite;
+}
